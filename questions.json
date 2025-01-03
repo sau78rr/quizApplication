@@ -1,0 +1,153 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "India", "Thailand"],
+    "answer": 1
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "N2"],
+    "answer": 0
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Leo Tolstoy", "Mark Twain"],
+    "answer": 1
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Oxygen", "Nitrogen", "Hydrogen", "Helium"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": 2
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": ["Cheetah", "Lion", "Horse", "Elephant"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas do plants use for photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Methane"],
+    "answer": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the smallest continent by land area?",
+    "options": ["Europe", "Antarctica", "Australia", "South America"],
+    "answer": 2
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["50°C", "100°C", "150°C", "200°C"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is known for the Eiffel Tower?",
+    "options": ["Italy", "France", "Germany", "Spain"],
+    "answer": 1
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Nikola Tesla"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "answer": 2
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "answer": 2
+  },
+  {
+    "question": "What is the hardest natural substance?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "answer": 2
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": 0
+  },
+  {
+    "question": "What is the currency of the United States?",
+    "options": ["Euro", "Pound", "Dollar", "Yen"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary language spoken in Brazil?",
+    "options": ["Spanish", "French", "Portuguese", "Italian"],
+    "answer": 2
+  },
+  {
+    "question": "Who is known as the Father of Computers?",
+    "options": ["Alan Turing", "Charles Babbage", "John von Neumann", "Steve Jobs"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet has a prominent ring system?",
+    "options": ["Jupiter", "Mars", "Uranus", "Saturn"],
+    "answer": 3
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": ["Tomato", "Avocado", "Onion", "Lettuce"],
+    "answer": 1
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "answer": 2
+  },
+  {
+    "question": "Which sport is known as the 'king of sports'?",
+    "options": ["Basketball", "Cricket", "Football (Soccer)", "Tennis"],
+    "answer": 2
+  },
+  {
+    "question": "What is the largest mammal?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": 1
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Marie Curie"],
+    "answer": 0
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["France", "Germany", "Italy", "Canada"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first man to walk on the moon?",
+    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+    "answer": 1
+  }
+]
+
